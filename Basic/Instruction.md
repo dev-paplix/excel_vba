@@ -125,12 +125,3 @@ End Sub
 - Use Macro Recorder to learn from actions.
 - Expand: Add InputBox for user filters.
 
-This covers basic VBA: Subs, variables, loops, conditions, cell access, and formatting. Enjoy practicing!
-```
-
-To download:
-1. Copy everything above (from `# Excel VBA Basic Training...` to the end).
-2. Paste into a text editor.
-3. Save as `Printing_Company_VBA_Training.md`. 
-
-You now have the complete content in one clean Markdown file!
